@@ -1,0 +1,3 @@
+Set-Location $PSScriptRoot\..
+$env:PYTHONPATH = "$PSScriptRoot\..\backend"
+python -m uvicorn backend.app.main:app --reload --host 0.0.0.0 --port 8000

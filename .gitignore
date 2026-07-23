@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+
+# Data
+data/images/
+data/audio/
+data/videos/
+data/app.db
+
+# Environment
+.env
+
+# IDE
+.idea/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Docker
+redis_data/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Claude
+.claude/

@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@import "./animations.css";
+
+@theme {
+  --color-sakura-50: #fff5f7;
+  --color-sakura-100: #ffe4e9;
+  --color-sakura-200: #fecdd5;
+  --color-sakura-300: #fda4af;
+  --color-sakura-400: #fb7185;
+  --color-sakura-500: #e11d48;
+  --color-sakura-600: #be123c;
+  --color-sakura-700: #9f1239;
+  --color-sakura-800: #881337;
+  --color-sakura-900: #4c0519;
+  --color-cream-50: #fffdf7;
+  --color-cream-100: #fff9e6;
+  --color-cream-200: #fff3cc;
+  --color-cream-300: #ffe999;
+  --color-sky-100: #e0f2fe;
+  --color-sky-200: #bae6fd;
+  --color-sky-500: #0ea5e9;
+  --color-sky-600: #0284c7;
+}
+
+body {
+  font-family: 'Noto Sans SC', sans-serif;
+  color: #4a3728;
+}
+
+.font-display {
+  font-family: 'ZCOOL KuaiLe', cursive;
+}

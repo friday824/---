@@ -1,0 +1,10 @@
+{
+  "description": "BGM library - FFmpeg generated placeholder tracks. Replace with real music from DOVA-SYNDROME (https://dova-s.jp/) for better quality.",
+  "categories": {
+    "warm_happy": {"tracks": ["warm_ambient_01.mp3"]},
+    "nostalgic_sad": {"tracks": ["piano_reflective_01.mp3"]},
+    "exciting_adventure": {"tracks": ["upbeat_01.mp3"]},
+    "calm_reflective": {"tracks": ["ambient_calm_01.mp3"]},
+    "romantic": {"tracks": ["warm_romance_01.mp3"]}
+  }
+}
